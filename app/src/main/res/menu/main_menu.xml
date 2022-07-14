@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ 10119203, Albee Akbar Fillah, IF5
+    14 Juli 2022
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile Mahasiswa" />
+        <item
+            android:id="@+id/nav_carikuliner"
+            android:title="SPBU Terdekat" />
+<!--        <item-->
+<!--            android:id="@+id/nav_lokasisaya"-->
+<!--            android:title="Lokasi Saya" />-->
+        <item
+            android:id="@+id/nav_informasi"
+            android:title="Informasi Aplikasi" />
+    </group>
+</menu>
