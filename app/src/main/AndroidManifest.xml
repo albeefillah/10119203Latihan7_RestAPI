@@ -37,7 +37,7 @@
         <activity
             android:name="com.albee.a10119203latihan7.SplashscreenActivity"
             android:exported="true"
-            android:theme="@style/Theme.tempatmakan10119258.NoActionBar">
+            android:theme="@style/Theme.10119203lat7.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
